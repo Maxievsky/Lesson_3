@@ -1,0 +1,23 @@
+
+.label {
+	color: grey;
+}
+h1{
+	color: red;
+}
+a {
+	color: blue;
+}
+
+div.text p{
+	color: darkgreen;
+}
+
+span {
+	color: violet;
+}
+
+ul.list p{
+	color: black;
+}
+
